@@ -10,7 +10,7 @@ Beyond my technical expertise, I bring project management experience, enabling m
 
 
 ## Technical Proficiencies
-- Frontend Development: Experienced in building responsive, user-friendly web interfaces using HTML, CSS, http://React.js, and Bootstrap, with a focus on clean code and cross-browser compatibility
+- Frontend Development: Experienced in building responsive, user-friendly web interfaces using HTML, CSS, React.js, and Bootstrap, with a focus on clean code and cross-browser compatibility
 
 - Version Control: Proficient in Git and GitHub for source code management, collaborative development, branching strategies, and code reviews
   
